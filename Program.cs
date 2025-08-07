@@ -16,10 +16,7 @@ app.Use(async (context, next) =>
     context.Response.Headers.Add("Permissions-Policy", "geolocation=(), camera=()");
     context.Response.Headers.Add("Content-Security-Policy",
         "default-src 'self'; " +
-        "style-src 'self' https://fonts.googleapis.com https://cdn.jsdelivr.net; " +
-        "font-src 'self' https://fonts.gstatic.com; " +
-        "script-src 'self' https://cdn.jsdelivr.net; " +
-        "connect-src 'self'; " +
+         "connect-src 'self'; " +
         "img-src 'self' data:; " +
         "object-src 'none'; " +
         "frame-ancestors 'none'; " +
