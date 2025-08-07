@@ -15,10 +15,6 @@ app.Use(async (context, next) =>
     context.Response.Headers.Add("Referrer-Policy", "no-referrer");
     context.Response.Headers.Add("Permissions-Policy", "geolocation=(), camera=()");
     context.Response.Headers.Add("Content-Security-Policy",
-        "default-src 'self'; " +
-         "connect-src 'self'; " +
-        "img-src 'self' data:; " +
-        "object-src 'none'; " +
         "frame-ancestors 'none'; " +
         "base-uri 'self';");
 
