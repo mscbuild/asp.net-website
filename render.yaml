@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: indotalent-app
+    env: docker
+    repo: https://github.com/mscbuild/asp.net-website
+    branch: main  # или та ветка, которую вы используете
+    dockerfilePath: ./Dockerfile
+    buildFilter:
+      paths:
+        - '**/*'
+    plan: free  # или change to 'starter'/'standard' if you're using a paid plan
+    autoDeploy: true
+    envVars:
+      - key: ASPNETCORE_ENVIRONMENT
+        value: Production
