@@ -14,8 +14,7 @@ Explore ASP.NET Landing Page, an open-source project offering a stunning and cus
 
 Live Demo Link: [Demo](https://netweb.onrender.com/)
 
-For a fully functional experience, including complete authentication, contact services, and booking features, visit our store now [https://store.indotalent.com/](https://store.indotalent.com/)
-
+ 
 # Starred
 If you like this work.
 
