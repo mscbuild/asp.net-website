@@ -18,6 +18,12 @@ Live Demo Link: [Demo](https://netweb.onrender.com/)
 # Starred
 If you like this work.
 
+# Clone this repo
+~~~bash
+git clone https://github.com/mscbuild/ai-local-agents.git
+cd ai-local-agents
+~~~
+
 # License
 ASP.NET Landing Page is based on Startup HTML template from HTMLCODEX [LICENSE](LICENSE).
 
