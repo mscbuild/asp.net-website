@@ -20,8 +20,8 @@ If you like this work.
 
 # Clone this repo
 ~~~bash
-git clone https://github.com/mscbuild/ai-local-agents.git
-cd ai-local-agents
+git clone https://github.com/mscbuild/asp.net-website.git
+cd asp.net-website
 ~~~
 
 # License
