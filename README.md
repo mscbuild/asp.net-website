@@ -18,7 +18,7 @@ Live Demo Link: [Demo](https://netweb.onrender.com/)
 
 - Modern Design: Sleek and professional design that is fully responsive.
 - Customizable: Easily customize the template to fit your needs.
-- Built with ASP.NET Core 8.0: Leverage the power of the latest ASP.NET Core framework.
+- Built with ASP.NET Core 9.0: Leverage the power of the latest ASP.NET Core framework.
 - Razor Pages: Simplify your development with Razor Pages.
 - Authentication: Ready-to-use authentication features.
 - Contact Services: Integrated contact services for easy communication.
