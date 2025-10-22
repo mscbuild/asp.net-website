@@ -25,7 +25,7 @@ Live Demo Link: [Demo](https://netweb.onrender.com/)
 - Booking Features: Fully functional booking features.
 
  
-# Starred
+# Started
 If you like this work.
 
 # Clone this repo
@@ -34,6 +34,15 @@ git clone https://github.com/mscbuild/asp.net-website.git
 cd asp.net-website
 ~~~
 
+# Build the project:
+~~~bash
+dotnet build
+~~~
+
+# Run the application
+~~~bash
+dotnet run
+~~~
 # License
 ASP.NET Landing Page is based on Startup HTML template from HTMLCODEX [LICENSE](LICENSE).
 
